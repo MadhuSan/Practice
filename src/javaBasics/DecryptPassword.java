@@ -12,6 +12,7 @@ import org.openqa.selenium.support.ui.ISelect;
 public class DecryptPassword {
 	
 	//git test
+	//switched to branch
 	
 	static ArrayList<Character> newCh = new ArrayList<Character>();
 	static char[] ch;
